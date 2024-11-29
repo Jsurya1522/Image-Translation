@@ -85,14 +85,3 @@ This project extracts Tamil text from an input image using OCR (Optical Characte
 
 - Ensure Tesseract is configured to recognize Tamil (tam) language by downloading the necessary language pack.
 - If translation fails due to internet connectivity issues, the original text will be retained.
-
-## Contact
-
-For any queries or suggestions, feel free to reach out:
-- [Your Name]
-- [Your Email]
-- [Your GitHub Profile]
-
-### Instructions for Images:
-- Replace input_image.jpg and output_image.jpg with the actual file names of your sample images.
-- Ensure the images are placed in the same folder as the README file for proper rendering on platforms like GitHub or when using local directories.
