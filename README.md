@@ -37,12 +37,10 @@ This project extracts Tamil text from an input image using OCR (Optical Characte
 
 1. Clone the repository:
    bash
-   git clone <repository-link>
-   cd <project-folder>
+   git clone <[repository-link](https://github.com/Jsurya1522/Image-Translation)>
    
 
 2. Install dependencies:
-   bash
    pip install -r requirements.txt
    
 
@@ -71,17 +69,6 @@ This project extracts Tamil text from an input image using OCR (Optical Characte
 
 ### Output Image
 ![oup6](https://github.com/user-attachments/assets/01fb5033-d7d5-42b3-a275-eb45f1b0c5f4)
-
-## How to Include Images in This README
-
-1. Save the input and output images in the same directory as the README file.
-2. Use the following syntax to add images:
-   markdown
-   ![Input Image](input_image.jpg)
-   ![Output Image](output_image.jpg)
-   
-
-3. Ensure the file paths are correct relative to the README location.
 
 ## Notes
 
