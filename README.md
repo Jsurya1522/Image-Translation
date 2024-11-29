@@ -37,7 +37,7 @@ This project extracts Tamil text from an input image using OCR (Optical Characte
 
 1. Clone the repository:
    bash
-   git clone <[repository-link](https://github.com/Jsurya1522/Image-Translation)>
+   git clone https://github.com/Jsurya1522/Image-Translation
    
 
 2. Install dependencies:
