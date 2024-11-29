@@ -70,6 +70,7 @@ This project extracts Tamil text from an input image using OCR (Optical Characte
 ![inp6](https://github.com/user-attachments/assets/6d18bde3-a6e9-46c7-8efa-11aab2760499)
 
 ### Output Image
+![oup1](https://github.com/user-attachments/assets/05f4a265-01b8-4217-b615-6c9c399e95e7)
 
 ## How to Include Images in This README
 
